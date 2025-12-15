@@ -1,6 +1,6 @@
 ## Hi there, I'm Nikita 👋
-- 🔭 I’m currently working on a landing website on Angular
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on a landing website on Vue
+- 🌱 I’m currently learning Vue
 
 ## Languages and tools:
 <div style="display: flex">
